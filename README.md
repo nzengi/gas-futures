@@ -152,6 +152,7 @@ sui move test --filter redemption
 - [API Reference](docs/API.md) - Smart contract API documentation
 - [User Guide](docs/USER_GUIDE.md) - End-user documentation
 - [Developer Guide](docs/DEVELOPER_GUIDE.md) - Integration guide
+- [RFP Application](RFP_APPLICATION.md) - Complete RFP submission
 
 ## 🔗 Integration
 
@@ -232,12 +233,5 @@ sui move test
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Contact
-
-- **Project Link**: [https://github.com/your-username/gas-futures](https://github.com/nzengi/gas-futures)
-- **Issues**: [GitHub Issues](https://github.com/nzengi/gas-futures/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/nzengi/gas-futures/discussions)
-
----
 
 **Built with ❤️ for the SUI ecosystem**
