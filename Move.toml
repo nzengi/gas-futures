@@ -1,0 +1,10 @@
+[package]
+name = "gas_futures"
+version = "1.0.0"
+authors = ["Gas Futures Team"]
+license = "MIT"
+edition = "2024"
+
+[addresses]
+sui = "0x2"
+gas_futures = "0x0" 
