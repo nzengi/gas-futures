@@ -1,9 +1,5 @@
 # Gas Futures Protocol - SUI Foundation RFP Solution
 
-[![SUI](https://img.shields.io/badge/SUI-Protocol-blue)](https://sui.io)
-[![Move](https://img.shields.io/badge/Move-Language-orange)](https://move-language.github.io/move/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-
 > **A comprehensive DeFi protocol for gas futures tokens on the SUI blockchain, enabling users to hedge gas price volatility and secure predictable transaction costs.**
 
 ## 🎯 Project Overview
@@ -236,20 +232,12 @@ sui move test
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- [Sui Foundation](https://sui.io) for the RFP opportunity
-- [Move Language](https://move-language.github.io/move/) community
-- [SUI Community](https://discord.gg/sui) for support and feedback
-
 ## 📞 Contact
 
-- **Project Link**: [https://github.com/your-username/gas-futures](https://github.com/your-username/gas-futures)
-- **Issues**: [GitHub Issues](https://github.com/your-username/gas-futures/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/gas-futures/discussions)
+- **Project Link**: [https://github.com/your-username/gas-futures](https://github.com/nzengi/gas-futures)
+- **Issues**: [GitHub Issues](https://github.com/nzengi/gas-futures/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/nzengi/gas-futures/discussions)
 
 ---
 
 **Built with ❤️ for the SUI ecosystem**
-
-[![SUI Foundation](https://img.shields.io/badge/SUI%20Foundation-RFP%20Solution-blue)](https://sui.io/grants/gas-futures-functionality)
