@@ -25,7 +25,7 @@ Gas futures are financial derivatives that allow you to lock in gas prices for f
 
 ```bash
 # Clone the repository (for developers)
-git clone https://github.com/your-username/gas-futures.git
+git clone https://github.com/nzengi/gas-futures.git
 cd gas-futures
 
 # Install dependencies
@@ -366,3 +366,4 @@ For additional support or questions, please reach out to our community channels 
 **Happy Hedging! 🚀**
 
 _This guide is part of the SUI Foundation Gas Futures Functionality RFP solution._
+ 

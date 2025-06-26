@@ -54,7 +54,7 @@ graph TD
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/gas-futures.git
+git clone https://github.com/nzengi/gas-futures.git
 cd gas-futures
 
 # Build the project
@@ -218,7 +218,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ```bash
 # Fork and clone
-git clone https://github.com/your-username/gas-futures.git
+git clone https://github.com/nzengi/gas-futures.git
 
 # Install dependencies
 sui move build
@@ -232,6 +232,5 @@ sui move test
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 
 **Built with ❤️ for the SUI ecosystem**

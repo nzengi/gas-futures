@@ -266,4 +266,4 @@ This is the initial release of the Gas Futures Protocol, a comprehensive DeFi so
 
 **This release represents a complete solution for the SUI Foundation Gas Futures Functionality RFP.**
 
-[1.0.0]: https://github.com/your-username/gas-futures/releases/tag/v1.0.0
+[1.0.0]: https://github.com/nzengi/gas-futures/releases/tag/v1.0.0

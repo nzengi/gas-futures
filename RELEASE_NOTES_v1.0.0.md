@@ -83,7 +83,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/gas-futures.git
+git clone https://github.com/nzengi/gas-futures.git
 cd gas-futures
 
 # Build and test
@@ -150,11 +150,12 @@ sui move test
 ## 📞 Support
 
 - **Documentation:** [docs/](docs/)
-- **Issues:** [GitHub Issues](https://github.com/your-username/gas-futures/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/your-username/gas-futures/discussions)
+- **Issues:** [GitHub Issues](https://github.com/nzengi/gas-futures/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/nzengi/gas-futures/discussions)
 
 ---
 
 **This release represents a complete solution for the SUI Foundation Gas Futures Functionality RFP.**
 
 🚀 **Ready for Production Deployment**
+ 
